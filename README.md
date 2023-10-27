@@ -2,7 +2,9 @@
 This code is used for replicating the illustration section of Kaido &amp; Zhang (2023) JER paper.
 
 Project Title: “Applications of Choquet Expected Utility to Hypothesis Testing with Incompleteness”
+
 Project Description: The code is used to replicate the numerical illustration part of the paper (Figure 1 and Table 1).
+
 Project Authors: Hiroaki Kaido and Yi Zhang (2023)
 
 If you have any questions about code implementation, please send emails to yzhangjnu@outlook.com
